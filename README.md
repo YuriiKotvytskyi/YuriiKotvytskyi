@@ -79,6 +79,9 @@
   <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
 </div>
 
+<br />
+<br />
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushane&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushane" /></p>
 
 <h3 align="center">
