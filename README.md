@@ -32,16 +32,6 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" height="30" alt="Android logo" />
@@ -53,6 +43,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="30" alt="GitHub Logo" />
   <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="30" alt="Python Logo" />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 </div>
 
 ###
