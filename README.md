@@ -100,5 +100,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img align="left" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience" width="400">
 </p>
