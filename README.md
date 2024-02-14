@@ -82,8 +82,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushane&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushane" /></p>
 
 <h3 align="center">
-Github Stats 🧐
 </h3>
+
+<br />
+<br />
+<br />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01"/> </p>
 
 <div align="center">
