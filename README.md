@@ -45,9 +45,13 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" height="30" alt="Android logo" />
+  <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" alt="Spring logo"/>
+  <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="30" alt="Java Logo" />
+  <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="30" alt="GitHub Logo" />
+  <img width="12"  />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="30" alt="Python Logo" />
 </div>
 
