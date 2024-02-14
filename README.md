@@ -44,12 +44,11 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" height="30" alt="Android logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" alt="Spring logo" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="30" alt="Java Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="30" alt="GitHub Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="30" alt="Python Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" height="30" height="30" alt="ionic logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" height="30" alt="Android logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" alt="Spring logo"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="30" alt="Java Logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="30" alt="GitHub Logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="30" alt="Python Logo" />
 </div>
 
 ###
