@@ -87,14 +87,6 @@ Github Stats 🧐
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01"/> </p>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg) -->
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pazindushane&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pazindushane&theme=github_dark"/> -->
 </div>
 
 <br>
